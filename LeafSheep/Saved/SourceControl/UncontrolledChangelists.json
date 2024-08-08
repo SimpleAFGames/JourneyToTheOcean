@@ -89,7 +89,21 @@
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/GM_Action.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/Action/IA_Jump.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/Action/IA_Move.uasset",
-				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/IMC_Action.uasset"
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/IMC_Action.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/Idle.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/FlashyIdle.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/WAlk.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/JumpRise.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/Fall.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/Shoot.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/assets/Character/Player/Shoot.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/WallClimb.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/Slide.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/crawl.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AS_Player.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/ABP_Player.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/ABP_Player.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/ABP_Player.uasset"
 			]
 		}
 	]
