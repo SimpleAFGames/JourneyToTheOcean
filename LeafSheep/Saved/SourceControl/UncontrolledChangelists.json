@@ -85,7 +85,11 @@
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/assets/Character/Player/Frames/leafsheep_32x32__wall_jump_aseprite.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/assets/Character/Player/Idle.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/ActionChar_BASE.uasset",
-				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/BP_Player.uasset"
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/BP_Player.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/GM_Action.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/Action/IA_Jump.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/Action/IA_Move.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/IMC_Action.uasset"
 			]
 		}
 	]
