@@ -101,9 +101,12 @@
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/Slide.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AnimSequences/crawl.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Character/Player/AS_Player.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/ABP_Player.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Projectiles/BP_Projectiles_BASE.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Projectiles/Player/BP_PlayerProjectile_BASE.uasset",
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/Projectiles/Player/BP_PlayerProjectile_REGULAR.uasset",
 				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/BluePrints/ABP_Player.uasset",
-				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/ABP_Player.uasset",
-				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/inputs/ABP_Player.uasset"
+				"D:/UnrealProjects/JourneyToTheOcean/LeafSheep/Content/ABP_Player.uasset"
 			]
 		}
 	]
